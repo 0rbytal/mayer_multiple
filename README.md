@@ -10,3 +10,5 @@ This python script calculates the current mayer mulptiple for every cryptocurren
 DISCLAIMER: I commit without mercy or thorough review. My code is crude and inefficient, but I get it working (eventually). You clone/copy & run my code at your own risk!
 
 I'm open to suggestions on improvement. Send comments to 0rbytal at outlook [dot] com.
+
+You can read more about the Mayer Multiple at https://www.theinvestorspodcast.com/uncategorized/mayer-multiple-update-6-january-2018/
